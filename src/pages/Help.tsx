@@ -15,7 +15,7 @@ const Help = () => {
   const faqs = [
     {
       question: "¿Cuál es el horario de atención?",
-      answer: "Estamos abiertos de lunes a domingo de 8:00 AM a 10:00 PM. Los días festivos tenemos horario especial de 9:00 AM a 9:00 PM."
+      answer: "Estamos abiertos de lunes a domingo de 7:00 AM a 9:00 PM. Los días festivos tenemos horario especial de 8:00 AM a 8:00 PM."
     },
     {
       question: "¿Aceptan devoluciones?",
@@ -117,7 +117,7 @@ const Help = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-foreground">Horario</h3>
-                <p className="text-muted-foreground">Lun - Dom: 8:00 AM - 10:00 PM</p>
+                <p className="text-muted-foreground">Lun - Dom: 7:00 AM - 9:00 PM</p>
               </div>
             </div>
 
