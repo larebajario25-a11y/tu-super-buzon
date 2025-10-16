@@ -27,7 +27,7 @@ const Help = () => {
     },
     {
       question: "¿Aceptan todas las tarjetas?",
-      answer: "Aceptamos tarjetas de crédito y débito Visa, MasterCard, American Express y tarjetas locales. También aceptamos pagos en efectivo, vales de despensa y transferencias."
+      answer: "Sí, aceptamos cualquier medio de pago."
     },
     {
       question: "¿Tienen productos orgánicos?",
