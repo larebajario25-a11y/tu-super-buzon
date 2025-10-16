@@ -23,7 +23,7 @@ const Help = () => {
     },
     {
       question: "¿Tienen servicio a domicilio?",
-      answer: "Sí, ofrecemos servicio de entrega a domicilio. Puedes hacer tu pedido por teléfono, WhatsApp o a través de nuestra app. El tiempo de entrega es de 1-2 horas."
+      answer: "Sí, ofrecemos servicio de entrega a domicilio. Puedes hacer tu pedido por teléfono o WhatsApp. El tiempo de entrega es de 1-2 horas."
     },
     {
       question: "¿Aceptan todas las tarjetas?",
