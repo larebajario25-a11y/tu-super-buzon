@@ -109,7 +109,7 @@ const Index = () => {
       <footer className="bg-secondary py-8 mt-16">
         <div className="container mx-auto px-4 text-center">
           <p className="text-muted-foreground">
-            © 2024 SUPERMERCADO LA REBAJA RIO. Gracias por tu confianza.
+            SUPERMERCADO LA REBAJA RIO. Gracias por tu confianza.
           </p>
         </div>
       </footer>
