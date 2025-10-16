@@ -30,10 +30,6 @@ const Help = () => {
       answer: "Sí, aceptamos cualquier medio de pago."
     },
     {
-      question: "¿Tienen productos orgánicos?",
-      answer: "Sí, contamos con una sección especial de productos orgánicos que incluye frutas, verduras, lácteos y productos de despensa. Está ubicada en el pasillo 5."
-    },
-    {
       question: "¿Cómo reporto un producto en mal estado?",
       answer: "Si encuentras un producto en mal estado, acércate inmediatamente a cualquier empleado o al área de atención al cliente. Te haremos el cambio de inmediato y tomaremos las medidas necesarias."
     }
@@ -89,7 +85,7 @@ const Help = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-foreground">Teléfono</h3>
-                <p className="text-muted-foreground">+52 (55) 1234-5678</p>
+                <p className="text-muted-foreground">+57 3132058870</p>
               </div>
             </div>
 
@@ -99,7 +95,7 @@ const Help = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-foreground">Email</h3>
-                <p className="text-muted-foreground">atencion@supermercado.com</p>
+                <p className="text-muted-foreground">sajoyo16@gmail.com</p>
               </div>
             </div>
 
@@ -121,7 +117,7 @@ const Help = () => {
               </div>
               <div>
                 <h3 className="font-semibold text-foreground">Dirección</h3>
-                <p className="text-muted-foreground">Av. Principal #123, Col. Centro</p>
+                <p className="text-muted-foreground">Carrera 8 Calle 11 Esquina</p>
               </div>
             </div>
           </div>
