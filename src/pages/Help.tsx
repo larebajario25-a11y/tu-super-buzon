@@ -19,7 +19,7 @@ const Help = () => {
     },
     {
       question: "¿Aceptan devoluciones?",
-      answer: "Sí, aceptamos devoluciones de productos no perecederos dentro de los 30 días posteriores a la compra, siempre que estén en su empaque original y con el ticket de compra."
+      answer: "Sí, aceptamos devoluciones de productos, siempre que estén en su empaque original y con el ticket de compra."
     },
     {
       question: "¿Tienen servicio a domicilio?",
