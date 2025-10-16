@@ -26,14 +26,6 @@ const Help = () => {
       answer: "Sí, ofrecemos servicio de entrega a domicilio. Puedes hacer tu pedido por teléfono, WhatsApp o a través de nuestra app. El tiempo de entrega es de 1-2 horas."
     },
     {
-      question: "¿Cómo puedo hacerme socio?",
-      answer: "Puedes registrarte como socio en cualquiera de nuestras cajas o en el área de atención al cliente. Solo necesitas tu identificación oficial. Como socio disfrutarás de descuentos especiales y promociones exclusivas."
-    },
-    {
-      question: "¿Tienen estacionamiento?",
-      answer: "Sí, contamos con estacionamiento gratuito para nuestros clientes con capacidad para 100 vehículos. El estacionamiento está disponible durante todo nuestro horario de operación."
-    },
-    {
       question: "¿Aceptan todas las tarjetas?",
       answer: "Aceptamos tarjetas de crédito y débito Visa, MasterCard, American Express y tarjetas locales. También aceptamos pagos en efectivo, vales de despensa y transferencias."
     },
