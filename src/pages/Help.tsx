@@ -19,7 +19,7 @@ const Help = () => {
     },
     {
       question: "¿Aceptan devoluciones?",
-      answer: "Sí, aceptamos devoluciones de productos, siempre que estén en su empaque original y con el recibo de compra."
+      answer: "Sí, aceptamos devoluciones de productos, siempre y cuando estén en su empaque original y cuente con el recibo de compra en mano."
     },
     {
       question: "¿Tienen servicio a domicilio?",
